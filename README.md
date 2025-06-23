@@ -40,7 +40,7 @@ Feel free to reach out to talk about data, projects, or anything cool in the ana
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/></code> 
     </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
-        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="excel" width="35" height="35"/></code>
+      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="excel" width="35" height="35"/></code>
     </a>
     <a href="https://powerbi.microsoft.com/" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21~bgwhite.svg" alt="powerbi" width="60" height="35"/></code> 
@@ -87,6 +87,9 @@ SQL                  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒     
 Jupyter Notebook     ▒▒▒▒▒▒▒▒▒▒▒▒              20%  
 M Code (Power Query) ▒▒▒▒▒▒▒▒▒                 15%  
 Other (HTML, CSS)    ▒▒                       5%  
+```
+
+
 
 
 
