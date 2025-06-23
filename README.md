@@ -1,4 +1,4 @@
-<img align="center" width="600px" alt="Profile Banner" src="https://github.com/Tintin-dataObsessed/Michelle_Chekwoti/blob/cf138d196e6c1e507da5ee3e88f5145f2054d070/Active%20Image.jpg?raw=true" />
+<img align="center" width="600px" alt="Profile Banner" src="https://github.com/Tintin-dataObsessed/Michelle_Chekwoti/blob/91a327745f22c7b9b275e8845e0ecc7ab04b0a22/Active%20Image.jpg" />
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Michelle Chekwoti!](https://mirsazzathossain.me/) </a> <img src="https://komarev.com/ghpvc/?username=MichelleChekwoti" height="20px">
 
