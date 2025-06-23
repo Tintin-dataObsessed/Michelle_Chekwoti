@@ -6,94 +6,89 @@
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Michelle Chekwoti!](https://mirsazzathossain.me/) </a> <img src="https://komarev.com/ghpvc/?username=MichelleChekwoti" height="20px">
 
-I am a **Junior Data Scientist** 🧑‍🔬 currently studying at Moringa School in Kenya and work as an Analyst at 637Capital, with a strong background in **Finance**, **Power BI** and **machine learning**. Over the past two years, I have actively contributed to these fields, publishing research articles in well-regarded conferences such as **ICIP** and **IJCNN** 🔬. My primary research interests revolve around **computer vision** and solving real-world problems using cutting-edge techniques ✨. 
+I am a **Junior Data Analyst** 📊 currently studying at Moringa School in Kenya while working as an Analyst at 637Capital. I have a strong foundation in **Finance**, **Power BI**, and **SQL**, and I’m transitioning into **Data Science** with a growing interest in **machine learning** and **data storytelling** 📚.
 
-Currently, I am working on projects including **machine learning**, **sentiment analysis**🔥. I am passionate about problem-solving, debugging, and contributing to data storytelling 🤓. 
+My experience includes building automated dashboards, financial models, and inventory systems using tools like **Excel VBA**, **Python**, and **Power Query**. I’m passionate about transforming raw data into actionable insights and bridging the gap between technical teams and decision-makers 🤝.
 
-Feel free to reach out to discuss **ideas** or ask data-related questions 💬!
+Currently, I’m working on projects involving **data visualization**, **classification models**, and **business analytics**. I love solving real-world problems and am especially drawn to challenges that mix **economic thinking** with **data-driven approaches** 📈.
+
+Feel free to reach out to talk about data, projects, or anything cool in the analytics world! 💬
 
 <p><a href="https://www.linkedin.com/in/mirsazzathossain/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:MichelleChekwoti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
 <br>
 
 ## ⚡ A Few Quick Facts:
 
-- 🔭 Currently Working on several Computer Vision projects.
-- 🧮 Expanding my knowledge in differential geometry and Lie algebra.
-- 👯 Eager to collaborate on exciting Computer Vision research projects.
-- 🤔 Actively looking for Ph.D. opportunities in computer vision and machine learning.
-- 💬 Ask me about anything related to cutting-edge tech and research.
-- 📫 Reach me at: [Gmail](mailto:MichelleChekwoti@gmail.com)
-- 🧾 Check out my [resume](https://mirsazzathossain.me/files/mirsazzathossain-cv.pdf).
-- 📝 I sometimes write articles on [my blog](https://dataobsessed4.wordpress.com/).
-- ⚡ Fun fact: I enjoy running, and I am a movie lover 
+- 🔭 Currently working on projects involving **data cleaning**, **visualization**, and **classification models**.
+- 📊 I enjoy automating reports and dashboards using **Power BI**, **Excel VBA**, and **SQL**.
+- 🎓 Studying part-time at **Moringa School**, sharpening my data and coding skills.
+- 💼 Working full-time as an Analyst at **637Capital**, where I help streamline financial and operations reporting.
+- 🧠 Always learning — recently diving deeper into **Python for data science** and **machine learning basics**.
+- 📝 I write about data, tech, and career thoughts on [my blog](https://dataobsessed4.wordpress.com/).
+- 📫 Reach me at: [MichelleChekwoti@gmail.com](mailto:MichelleChekwoti@gmail.com)
+- 💻 You can view my [resume](https://github.com/Tintin-dataObsessed/Michelle_Chekwoti/blob/main/Michelle_Chekwoti_CV.pdf).
+- ⚡ Fun fact: I love running, thoughtful movies, and I’m always up for a deep dive into a new idea!
 
-## 🛠️ Languages and Tools I use:
+## 🛠️ Languages and Tools I Use:
 
 <p align="center"> 
     <!-- Languages -->
     <a href="https://www.python.org" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></code> 
     </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/></code> 
-    </a> 
-    <!-- Frameworks / Libraries -->
-    <a href="https://pytorch.org/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://pytorch-lightning.readthedocs.io/en/stable/" target="_blank"> 
-        <code><img src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/lightning.png" alt="pytorch-lightning" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.tensorflow.org" target="_blank"> 
-        <code><img src="[https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg](" alt="tensorflow" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://sqlite.org/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21~bgwhite.svg" alt="opencv" width="35" height="35"/></code> 
+    <a href="https://www.mysql.com/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/></code> 
+    </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
+        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="excel" width="35" height="35"/></code>
+    </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21~bgwhite.svg" alt="powerbi" width="60" height="35"/></code> 
     </a>
     <!-- Tools -->
+    <a href="https://code.visualstudio.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35"/></code> 
+    </a> 
     <a href="https://git-scm.com/" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://code.visualstudio.com" target="_blank">
-        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35"/></code>
-    </a> 
-    <!-- Cloud & Databases -->
-    <a href="https://www.mongodb.com/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://aws.amazon.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35" height="35"/></code> 
+    </a>
+    <a href="https://tableau.com/" target="_blank"> 
+        <code><img src="https://svgrepo.com/show/354427/tableau.svg" alt="tableau" width="55" height="35"/></code> 
+    </a>
+    <!-- Bonus: WordPress for your blog -->
+    <a href="https://wordpress.com/" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="35" height="35"/></code> 
     </a>
 </p>
-<br>
+
 
 ## 📊 GitHub Stats:
 
-<img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsazzathossain&theme=white&&hide_border=true" width='48%' /> <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
-<br>
+<p align="center">
+<img alt="Tintin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tintin-dataObsessed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+
+✨ I aim to make this an A+!
+🙏 I also acknowledge that I’m still a junior and have much to learn 📚, build 🛠️, and commit 💻.
 
 
-📊 **This Week I Spent My Time On** 
+</p>
 
-```text
-💬 Programming Languages: 
-Python libraries 
+## 🧠 Most Used Languages
 
-🔥 Editors: 
-Visual Studio Code
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tintin-dataObsessed&layout=compact&hide_border=true&theme=default)
 
-🐱‍💻 Projects: 
-MovieLens Prediction and Analysis with Moringa Group
-```
+---
 
-**I Mostly Code in Python** 
+### 🧠 I Mostly Code in:
 
 ```text
-Python                   16 repos            ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-Jupyter Notebook         12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-SQL                      12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-M Code                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-```
+Python               ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   35%  
+SQL                  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒        25%  
+Jupyter Notebook     ▒▒▒▒▒▒▒▒▒▒▒▒              20%  
+M Code (Power Query) ▒▒▒▒▒▒▒▒▒                 15%  
+Other (HTML, CSS)    ▒▒                       5%  
+
+
 
 <!--END_SECTION:waka-->
 
