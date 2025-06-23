@@ -40,7 +40,7 @@ Feel free to reach out to talk about data, projects, or anything cool in the ana
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/></code> 
     </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
-      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="excel" width="35" height="35"/></code>
+      <code><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="excel" width="35" height="35"/></code>
     </a>
     <a href="https://powerbi.microsoft.com/" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21~bgwhite.svg" alt="powerbi" width="60" height="35"/></code> 
@@ -53,7 +53,7 @@ Feel free to reach out to talk about data, projects, or anything cool in the ana
         <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></code> 
     </a>
     <a href="https://tableau.com/" target="_blank"> 
-        <code><img src="https://svgrepo.com/show/354427/tableau.svg" alt="tableau" width="55" height="35"/></code> 
+        <code><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="35" height="35"/></code> 
     </a>
     <!-- Bonus: WordPress for your blog -->
     <a href="https://wordpress.com/" target="_blank"> 
