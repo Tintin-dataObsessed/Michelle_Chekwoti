@@ -14,7 +14,7 @@ Currently, I’m working on projects involving **data visualization**, **classif
 
 Feel free to reach out to talk about data, projects, or anything cool in the analytics world! 💬
 
-<p><a href="https://www.linkedin.com/in/mirsazzathossain/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:MichelleChekwoti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
+<p><a href="https://www.linkedin.com/in/michelle-chekwoti-b77b84220/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:MichelleChekwoti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
 <br>
 
 ## ⚡ A Few Quick Facts:
