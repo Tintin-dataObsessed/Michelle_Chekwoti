@@ -26,7 +26,7 @@ Feel free to reach out to talk about data, projects, or anything cool in the ana
 - 🧠 Always learning — recently diving deeper into **Python for data science** and **machine learning basics**.
 - 📝 I write about data, tech, and career thoughts on [my blog](https://dataobsessed4.wordpress.com/).
 - 📫 Reach me at: [MichelleChekwoti@gmail.com](mailto:MichelleChekwoti@gmail.com)
-- 💻 You can view my [resume](https://github.com/Tintin-dataObsessed/Michelle_Chekwoti/blob/main/Michelle_Chekwoti_CV.pdf).
+- 💻 You can view my [resume](https://github.com/Tintin-dataObsessed/Michelle_Chekwoti/blob/f49e2d57c134155c5803f40a3c7f2b8375faf321/Michelle%20Chekwoti%20CV.pdf).
 - ⚡ Fun fact: I love running, thoughtful movies, and I’m always up for a deep dive into a new idea!
 
 ## 🛠️ Languages and Tools I Use:
