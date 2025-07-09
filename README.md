@@ -62,15 +62,6 @@ Feel free to reach out to talk about data, projects, or anything cool in the ana
 </p>
 
 
-## 📊 GitHub Stats:
-
-<p align="center">
-<img alt="Tintin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tintin-dataObsessed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-
-✨ I aim to make this an A+!
-🙏 I also acknowledge that I’m still a junior and have much to learn 📚, build 🛠️, and commit 💻.
-
-
 </p>
 
 ## 🧠 Most Used Languages
