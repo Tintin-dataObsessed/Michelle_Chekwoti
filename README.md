@@ -37,4 +37,4 @@ I'm a Business and Data Analyst based in Nairobi, Kenya. I work at 637 Capital w
 
 ## 🧠 Most Used Languages
 
-![Top Langs](https://raw.githubusercontent.com/Tintin-dataObsessed/Tintin-dataObsessed/main/profile-summary.svg)![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tintin-dataObsessed&theme=default)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tintin-dataObsessed&theme=default)
