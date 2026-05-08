@@ -30,25 +30,25 @@ I'm a Business and Data Analyst based in Nairobi, Kenya. I work at 637 Capital w
 
 <p align="center"> 
     <a href="https://www.python.org" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></code> 
-    </a> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>
+    </a>&nbsp;&nbsp;
     <a href="https://www.mysql.com/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/></code> 
-    </a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/>
+    </a>&nbsp;&nbsp;
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
-        <code><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="excel" width="35" height="35"/></code>
-    </a>
+        <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="excel" width="35" height="35"/>
+    </a>&nbsp;&nbsp;
     <a href="https://powerbi.microsoft.com/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21~bgwhite.svg" alt="powerbi" width="60" height="35"/></code> 
-    </a>
+        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21~bgwhite.svg" alt="powerbi" width="60" height="35"/>
+    </a>&nbsp;&nbsp;
     <a href="https://code.visualstudio.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35"/></code> 
-    </a> 
+        <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35"/>
+    </a>&nbsp;&nbsp;
     <a href="https://git-scm.com/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></code> 
-    </a>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/>
+    </a>&nbsp;&nbsp;
     <a href="https://tableau.com/" target="_blank"> 
-        <code><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="35" height="35"/></code> 
+        <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="35" height="35"/>
     </a>
 </p>
 
@@ -57,20 +57,3 @@ I'm a Business and Data Analyst based in Nairobi, Kenya. I work at 637 Capital w
 ## 🧠 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tintin-dataObsessed&layout=compact&hide_border=true&theme=default)
-```text
-Python               ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   35%  
-SQL                  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒        25%  
-Jupyter Notebook     ▒▒▒▒▒▒▒▒▒▒▒▒              20%  
-M Code (Power Query) ▒▒▒▒▒▒▒▒▒                 15%  
-Other (HTML, CSS)    ▒▒                       5%  
-```
-
-
-
-
-
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
