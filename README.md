@@ -28,32 +28,13 @@ I'm a Business and Data Analyst based in Nairobi, Kenya. I work at 637 Capital w
 
 ## 🛠️ Languages and Tools
 
-<p align="center"> 
-    <a href="https://www.python.org" target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>
-    </a>&nbsp;&nbsp;
-    <a href="https://www.mysql.com/" target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/>
-    </a>&nbsp;&nbsp;
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
-        <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="excel" width="35" height="35"/>
-    </a>&nbsp;&nbsp;
-    <a href="https://powerbi.microsoft.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21~bgwhite.svg" alt="powerbi" width="60" height="35"/>
-    </a>&nbsp;&nbsp;
-    <a href="https://code.visualstudio.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35"/>
-    </a>&nbsp;&nbsp;
-    <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/>
-    </a>&nbsp;&nbsp;
-    <a href="https://tableau.com/" target="_blank"> 
-        <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="35" height="35"/>
-    </a>
-</p>
+| | | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35" height="35"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="35" height="35"/> | <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="35" height="35"/> | <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="35" height="35"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="35" height="35"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35" height="35"/> | <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="35" height="35"/> |
+| Python | MySQL | Excel | Power BI | VS Code | Git | Tableau |
 
 <br>
 
 ## 🧠 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tintin-dataObsessed&layout=compact&hide_border=true&theme=default)
+![Top Langs](https://raw.githubusercontent.com/Tintin-dataObsessed/Tintin-dataObsessed/main/profile-summary.svg)![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tintin-dataObsessed&theme=default)
