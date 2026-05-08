@@ -4,35 +4,31 @@
        style="width: 100%; max-width: 900px; border-radius: 16px;" />
 </p>
 
-## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Michelle Chekwoti!](https://mirsazzathossain.me/) </a> <img src="https://komarev.com/ghpvc/?username=MichelleChekwoti" height="20px">
+## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm Michelle Chekwoti! <img src="https://komarev.com/ghpvc/?username=Tintin-dataObsessed" height="20px">
 
-I am a **Junior Data Analyst** 📊 currently studying at Moringa School in Kenya while working as an Analyst at 637Capital. I have a strong foundation in **Finance**, **Power BI**, and **SQL**, and I’m transitioning into **Data Science** with a growing interest in **machine learning** and **data storytelling** 📚.
+I'm a Business and Data Analyst based in Nairobi, Kenya. I work at 637 Capital where I build Power BI dashboards for clients, do commercial analysis that ends up in front of directors, and a lot of things in between. My background is in Finance and I have a Data Science certification from Moringa School. I work across **SQL**, **Python**, **Power BI**, **Excel VBA** and **Power Query** and I'm drawn to roles where data is close to the actual business decisions.
 
-My experience includes building automated dashboards, financial models, and inventory systems using tools like **Excel VBA**, **Python**, and **Power Query**. I’m passionate about transforming raw data into actionable insights and bridging the gap between technical teams and decision-makers 🤝.
+<p>
+  <a href="https://www.linkedin.com/in/michellechekwoti-b77b84220/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="mailto:MichelleChekwoti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+</p>
 
-Currently, I’m working on projects involving **data visualization**, **classification models**, and **business analytics**. I love solving real-world problems and am especially drawn to challenges that mix **economic thinking** with **data-driven approaches** 📈.
-
-Feel free to reach out to talk about data, projects, or anything cool in the analytics world! 💬
-
-<p><a href="https://www.linkedin.com/in/michelle-chekwoti-b77b84220/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:MichelleChekwoti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
 <br>
 
-## ⚡ A Few Quick Facts:
+## ⚡ Quick Facts
 
-- 🔭 Currently working on projects involving **data cleaning**, **visualization**, and **classification models**.
-- 📊 I enjoy automating reports and dashboards using **Power BI**, **Excel VBA**, and **SQL**.
-- 🎓 Studying part-time at **Moringa School**, sharpening my data and coding skills.
-- 💼 Working full-time as an Analyst at **637Capital**, where I help streamline financial and operations reporting.
-- 🧠 Always learning — recently diving deeper into **Python for data science** and **machine learning basics**.
-- 📝 I write about data, tech, and career thoughts on [my blog](https://dataobsessed4.wordpress.com/).
-- 📫 Reach me at: [MichelleChekwoti@gmail.com](mailto:MichelleChekwoti@gmail.com)
-- 💻 You can view my [resume](https://github.com/Tintin-dataObsessed/Michelle_Chekwoti/blob/f49e2d57c134155c5803f40a3c7f2b8375faf321/Michelle%20Chekwoti%20CV.pdf).
-- ⚡ Fun fact: I love running, thoughtful movies, and I’m always up for a deep dive into a new idea!
+- 💼 Analyst at **637 Capital** — building dashboards, forecasting models and doing commercial analysis for clients across Kenya and Germany
+- 🎓 BCom Finance, **Strathmore University** — Dean's List 2020–2024
+- 📊 Data Science Certification, **Moringa School** — 2025
+- 🔭 Currently working on classification models and data visualisation projects
+- 🌍 Looking for remote Business Analyst or Data Analyst roles
+- ⚡ Outside work: running, good movies, and usually halfway through learning something new
 
-## 🛠️ Languages and Tools I Use:
+<br>
+
+## 🛠️ Languages and Tools
 
 <p align="center"> 
-    <!-- Languages -->
     <a href="https://www.python.org" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></code> 
     </a> 
@@ -40,12 +36,11 @@ Feel free to reach out to talk about data, projects, or anything cool in the ana
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/></code> 
     </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
-      <code><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="excel" width="35" height="35"/></code>
+        <code><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="excel" width="35" height="35"/></code>
     </a>
     <a href="https://powerbi.microsoft.com/" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21~bgwhite.svg" alt="powerbi" width="60" height="35"/></code> 
     </a>
-    <!-- Tools -->
     <a href="https://code.visualstudio.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35"/></code> 
     </a> 
@@ -55,23 +50,13 @@ Feel free to reach out to talk about data, projects, or anything cool in the ana
     <a href="https://tableau.com/" target="_blank"> 
         <code><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="35" height="35"/></code> 
     </a>
-    <!-- Bonus: WordPress for your blog -->
-    <a href="https://wordpress.com/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="35" height="35"/></code> 
-    </a>
 </p>
 
-
-</p>
+<br>
 
 ## 🧠 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tintin-dataObsessed&layout=compact&hide_border=true&theme=default)
-
----
-
-### 🧠 I Mostly Code in:
-
 ```text
 Python               ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   35%  
 SQL                  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒        25%  
